@@ -14,9 +14,7 @@ See juhend selgitab samm-sammult, kuidas valmistada CAT5 Ethernet kaabel T568B s
 
 * CAT5 / CAT5e kaabel
 * RJ45 pistik
-* Krimpimistangid (RJ45 crimp tool)
-* Kaabli koorija (või nuga)
-* Kaablitestija (soovituslik)
+* Krimpimistangid
 
 ---
 
