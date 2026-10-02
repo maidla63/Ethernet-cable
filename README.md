@@ -2,7 +2,7 @@
 
 ## 📌 Ülevaade
 
-See juhend selgitab samm-sammult, kuidas valmistada CAT5 Ethernet kaabel T568B standardi järgi. Juhend on mõeldud töötoa kasutamiseks ning sobib algajatele.
+See juhend selgitab samm-sammult, kuidas valmistada CAT5 Ethernet kaabel T568B standardi järgi.
 
 > 📷 **Pilt:**
 ![c78220b8322e6c86400c085b6e415a013b0ffd07](https://github.com/user-attachments/assets/42c505c3-321c-4e19-9264-929c637a7740)
